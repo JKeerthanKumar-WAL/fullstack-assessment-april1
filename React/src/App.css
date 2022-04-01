@@ -1,0 +1,20 @@
+.App {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 60px;
+}
+.container-fluid {
+    border: 4px solid darkolivegreen;
+    background-image: url('https://www.teahub.io/photos/full/13-133175_decent-wallpapers.png');
+    margin: auto;
+    margin-bottom: 1px;
+}
+.subHeading {
+    font-size: large;
+}
+input:hover {
+    background-color: lightskyblue;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkblue;
+}
